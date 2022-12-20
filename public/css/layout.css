@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -350,10 +350,60 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
-  	width: 50%;
+.reactjs {
+  	width: 70%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
+}
+.java {
+   width: 80%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.python {
+   width: 90%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.springboot {
+   width: 70%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.sql {
+   width: 90%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.nodejs {
+   width: 90%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.aws {
+   width: 90%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.php {
+   width: 80%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.bootstrap {
+   width: 80%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.unity {
+   width: 80%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+.opencv {
+   width: 60%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
 }
 
 @-moz-keyframes photoshop {
@@ -425,7 +475,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
+#portfolio-wrapper .columns { margin-bottom: 20px; }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
@@ -464,8 +514,8 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .item-wrap .link-icon {
    display: block;
    color: #fff;
-   height: 30px;
-   width: 30px;
+   height: 100px;
+   width: 100px;
    font-size: 18px;
    line-height: 30px;
    text-align: center;

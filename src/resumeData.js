@@ -1,64 +1,73 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "imagebaseurl":"https://github.com/premsharma2206",
+    "name": "Prem Sharma",
+    "role": "Full Stack Developer and Machine learning enthusiast",
+    "linkedinId":"https://www.linkedin.com/in/prem-sharma-2aa21a190/",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies, travel or watch movies in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/prem-sharma-2aa21a190/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/premsharma2206",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/PremSharma0699",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently in the graduating semester of my masters at The University of Texas at Dallas. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "address":"Dallas, Texas",
+    "website":"https://github.com/premsharma2206",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"University of Texas at Dallas",
+        "specialization":"Computer Science",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2023",
+        "Achievements":""
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Vardhaman College of Engineering",
+        "specialization":"Computer Science and Engineering",
+        "MonthOfPassing":"July",
+        "YearOfPassing":"2021",
+        "Achievements":""
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Goldman Sachs",
+        "specialization":"Summer Analyst",
+        "MonthOfLeaving":"Aug",
+        "YearOfLeaving":"2022",
+        "Achievements":"Designed and implemented a new feature to a microservice of the Fraud Engineering team. Generated dummy data using java to fill the missing values in some fields of the transaction payload. Had to alter the API contract, convert flattened fields to JSON and persist data to MongoDB and S3 in the process."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Amazon",
+        "specialization":"Data Engineer intern",
+        "MonthOfLeaving":"July",
+        "YearOfLeaving":"2021",
+        "Achievements":"Created Amazon product coverage and Mapping Coverage Tableau Reports for the Competitive Monitoring Team by designing an end to end architecture of getting data from upstream teams and transforming the data based on the requirements. Worked on ETL tools, AWS services, Andes in the process. Also, Worked on creating a java based static script to re-run failed AWS Datapipeline Instances."
       }
     ],
     "skillsDescription":"Your skills here",
     "skills":[
+      {
+        "skillname":"Java"
+      },
+      {
+        "skillname":"Python"
+      },
+      {
+        "skillname":"Springboot"
+      },
       {
         "skillname":"HTML5"
       },
@@ -67,38 +76,74 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"Nodejs"
+      },
+      {
+        "skillname":"SQl"
+      },
+      {
+        "skillname":"AWS"
+      },
+      {
+        "skillname":"PHP"
+      },
+      {
+        "skillname":"Bootstrap"
+      },
+      {
+        "skillname":"Unity"
+      },
+      {
+        "skillname":"OpenCV"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"AirbnbClone",
+        "description":"Implemented the functionalities of Airbnb website using MERN stack",
+        "imgurl":"images/Airbnbclone.png"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Sentimental Analysis on Live Tweets",
+        "description":"Performed incremental K- means clustering on Twitter data by collecting relevant tweets after every 30 second interval. Displayed the changes in the clusters via a scatter plot which updated in real-time.",
+        "imgurl":"images/SentimentalAnalysis.png"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"The Office VR",
+        "description":"Created an immersive office environment using Unity",  
+        "imgurl":"images/Vr.png"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"E-Commerce Website",
+        "description":"Created an e-commerce website from scratch with features like signing up, logging in, adding products to the cart, ordering the products, etc.",
+        "imgurl":"images/ecommerce.png"
+      },
+      {
+        "name":"Classification of Fashion - MNIST Dataset",
+        "description":"An app that can mark student attendance by recognizing their faces. Implemented using Python and OpenCV ",
+        "imgurl":"images/Fashion.png"
+      },
+      {
+        "name":"Student Attendance using Face Recognition",
+        "description":"An app that can mark student attendance by recognizing their faces. Implemented using Python and OpenCV ",
+        "imgurl":"images/Facerecognition.png"
+      },
+      {
+        "name":"Secure Instant Messaging System",
+        "description":"Designed and Developed a secure instant messaging system using java",
+        "imgurl":"images/im.jpeg"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Prem is a true team player.",
+        "name":"Rutvik Avaiya"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description": "He is really skilled at node.js and react",
+        "name":"Jinal Patel"
       }
     ]
   }
