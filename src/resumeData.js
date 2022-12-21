@@ -24,6 +24,8 @@ let resumeData = {
       ],
     "aboutme":"I am currently in the graduating semester of my masters at The University of Texas at Dallas. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"Dallas, Texas",
+    "email":"premsharma2299@gmail.com",
+    "phone":"+14087632812",
     "website":"https://github.com/premsharma2206",
     "education":[
       {
