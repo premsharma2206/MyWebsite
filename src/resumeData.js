@@ -103,37 +103,44 @@ let resumeData = {
       {
         "name":"AirbnbClone",
         "description":"Implemented the functionalities of Airbnb website using MERN stack",
-        "imgurl":"images/Airbnbclone.png"
+        "imgurl":"images/Airbnbclone.png",
+        "src":""
       },
       {
         "name":"Sentimental Analysis on Live Tweets",
         "description":"Performed incremental K- means clustering on Twitter data by collecting relevant tweets after every 30 second interval. Displayed the changes in the clusters via a scatter plot which updated in real-time.",
-        "imgurl":"images/SentimentalAnalysis.png"
+        "imgurl":"images/SentimentalAnalysis.png",
+        "src":""
       },
       {
         "name":"The Office VR",
         "description":"Created an immersive office environment using Unity",  
-        "imgurl":"images/Vr.png"
+        "imgurl":"images/Vr.png",
+        "src" : "https://youtube.com/watch?v=7jDz7J2Slw0&ab_channel=StevenLawrence"
       },
       {
         "name":"E-Commerce Website",
         "description":"Created an e-commerce website from scratch with features like signing up, logging in, adding products to the cart, ordering the products, etc.",
-        "imgurl":"images/ecommerce.png"
+        "imgurl":"images/ecommerce.png",
+        "src":"https://bhawaniemporium.000webhostapp.com/"
       },
       {
         "name":"Classification of Fashion - MNIST Dataset",
         "description":"An app that can mark student attendance by recognizing their faces. Implemented using Python and OpenCV ",
-        "imgurl":"images/Fashion.png"
+        "imgurl":"images/Fashion.png",
+        "src":""
       },
       {
         "name":"Student Attendance using Face Recognition",
         "description":"An app that can mark student attendance by recognizing their faces. Implemented using Python and OpenCV ",
-        "imgurl":"images/Facerecognition.png"
+        "imgurl":"images/Facerecognition.png",
+        "src":""
       },
       {
         "name":"Secure Instant Messaging System",
         "description":"Designed and Developed a secure instant messaging system using java",
-        "imgurl":"images/im.jpeg"
+        "imgurl":"images/im.jpeg",
+        "src":""
       }
     ],
     "testimonials":[
