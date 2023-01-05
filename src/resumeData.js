@@ -82,6 +82,10 @@ let resumeData = {
       {
         "skillname":"Nodejs"
       },
+      ,
+      {
+        "skillname":"MongoDB"
+      },
       {
         "skillname":"SQl"
       },
@@ -106,7 +110,7 @@ let resumeData = {
         "name":"AirbnbClone",
         "description":"Implemented the functionalities of Airbnb website using MERN stack",
         "imgurl":"images/Airbnbclone.png",
-        "src":""
+        "src":"https://firstchoicehousing.netlify.app/"
       },
       {
         "name":"Sentimental Analysis on Live Tweets",
