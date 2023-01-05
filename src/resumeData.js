@@ -82,7 +82,6 @@ let resumeData = {
       {
         "skillname":"Nodejs"
       },
-      ,
       {
         "skillname":"MongoDB"
       },
